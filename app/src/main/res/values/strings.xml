@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">POKEDEX3</string>
+    <string name="poke_nombre">PIKACHU</string>
+    <string name="poke_experience">100</string>
+</resources>
